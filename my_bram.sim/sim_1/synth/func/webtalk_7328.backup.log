@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Tue Jun 06 09:59:04 2017
+# Process ID: 7328
+# Current directory: C:/College/Thesis/VivadoProjects/my_bram/my_bram.sim/sim_1/synth/func
+# Command line: wbtcv.exe -mode batch -source C:/College/Thesis/VivadoProjects/my_bram/my_bram.sim/sim_1/synth/func/xsim.dir/my_bram_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/College/Thesis/VivadoProjects/my_bram/my_bram.sim/sim_1/synth/func/webtalk.log
+# Journal file: C:/College/Thesis/VivadoProjects/my_bram/my_bram.sim/sim_1/synth/func\webtalk.jou
+#-----------------------------------------------------------
+source C:/College/Thesis/VivadoProjects/my_bram/my_bram.sim/sim_1/synth/func/xsim.dir/my_bram_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/College/Thesis/VivadoProjects/my_bram/my_bram.sim/sim_1/synth/func/xsim.dir/my_bram_tb_func_synth/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Tue Jun 06 09:59:05 2017. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2016.3/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Tue Jun 06 09:59:05 2017...

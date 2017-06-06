@@ -1,0 +1,25 @@
+Vivado Simulator 2016.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.3/bin/unwrapped/win64.o/xelab.exe -wto ef8eebbef48240f4b935297ec71028de --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot my_bram_tb_func_synth xil_defaultlib.my_bram_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 5 differs from formal bit length 4 for port addr [C:/College/Thesis/VivadoProjects/my_bram/my_bram.srcs/sim_1/new/my_bram_tb.v:30]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.RAM32M
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.OBUF
+Compiling module unisims_ver.x_lut3_mux4
+Compiling module unisims_ver.x_lut3_mux4_reduced_0
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.sffsrce_fdre
+Compiling module unisims_ver.FDRE
+Compiling module xil_defaultlib.my_bram
+Compiling module xil_defaultlib.my_bram_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot my_bram_tb_func_synth
